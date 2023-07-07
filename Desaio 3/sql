@@ -1,0 +1,7 @@
+/* Lógico_1: */
+
+CREATE TABLE Funcionario_Empresa (
+    cargo VARCHAR,
+    id INT,
+    nome VARCHAR
+);
